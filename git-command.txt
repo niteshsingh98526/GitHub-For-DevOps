@@ -34,3 +34,5 @@ git commit -m "added testing file"
 git remote add origin https://github.com/niteshsingh98526/GitHub-For-DevOps.git   
 
 git push origin master
+
+this is some changes
