@@ -1,0 +1,36 @@
+
+
+git init
+
+git status
+
+
+ git rm --cached testing.py
+
+git status
+
+git add .                 
+git status
+
+git commit -m "added testing file"
+
+git status
+
+rm testing.py
+
+git status   
+
+git restore testing.py
+
+git status
+
+git init
+
+git add git-command.txt
+
+git status
+git commit -m "added testing file"
+
+git remote add origin https://github.com/niteshsingh98526/GitHub-For-DevOps.git   
+
+git push origin master
